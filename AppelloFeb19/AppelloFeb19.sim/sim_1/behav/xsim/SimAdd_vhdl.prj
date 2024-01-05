@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../AppelloGen19/AppelloGen19.srcs/sources_1/new/AddSel.vhd" \
+"../../../../AppelloFeb19.srcs/sources_1/new/SimAdd.vhd" \
+
+# Do not sort compile order
+nosort

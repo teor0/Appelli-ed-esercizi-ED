@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../SincroSignal.srcs/sources_1/new/SelAdd.vhd" \
+"../../../../SincroSignal.srcs/sim_1/new/Sim.vhd" \
+
+# Do not sort compile order
+nosort

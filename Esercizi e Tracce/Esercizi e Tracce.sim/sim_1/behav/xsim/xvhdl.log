@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Esercizi vivado/Esercizi e Tracce/Esercizi e Tracce.srcs/sources_1/new/Esercizio1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Esercizio1'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Esercizi vivado/Esercizi e Tracce/Esercizi e Tracce.srcs/sim_1/new/SimEs1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SimEs1'

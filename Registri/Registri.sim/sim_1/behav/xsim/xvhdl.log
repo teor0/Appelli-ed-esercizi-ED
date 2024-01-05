@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Esercizi vivado/Registri/Registri.srcs/sources_1/new/SelAddReg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SelAddReg'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Esercizi vivado/Registri/Registri.srcs/sim_1/new/SimSelAddReg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SimSelAddReg'

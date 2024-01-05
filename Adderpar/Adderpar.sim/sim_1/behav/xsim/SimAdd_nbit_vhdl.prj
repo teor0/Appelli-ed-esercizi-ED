@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Adderpar.srcs/sources_1/new/Add_nbit.vhd" \
+"../../../../Adderpar.srcs/sim_1/new/SimAdd_nbit.vhd" \
+
+# Do not sort compile order
+nosort

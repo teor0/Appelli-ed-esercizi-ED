@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../CarrellataAppelli.srcs/sources_1/new/A2A-A-2A.vhd" \
+"../../../../CarrellataAppelli.srcs/sim_1/new/SimSelReg.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../esercizi.srcs/sources_1/new/Add8Struct.vhd" \
+"../../../../esercizi.srcs/sources_1/new/FA.vhd" \
+"../../../../esercizi.srcs/sim_1/new/SimAdd8.vhd" \
+
+# Do not sort compile order
+nosort

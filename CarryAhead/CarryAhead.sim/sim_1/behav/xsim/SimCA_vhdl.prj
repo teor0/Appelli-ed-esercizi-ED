@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../CarryAhead.srcs/sources_1/new/CarrySelGen.vhd" \
+"../../../../CarryAhead.srcs/sim_1/new/SimCA.vhd" \
+
+# Do not sort compile order
+nosort

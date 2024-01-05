@@ -1,0 +1,5 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Esercizi vivado/Adderpar/Adderpar.srcs/sources_1/new/Add_nbit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FA'
+INFO: [VRFC 10-3107] analyzing entity 'Add_nbit'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Esercizi vivado/Adderpar/Adderpar.srcs/sim_1/new/SimAdd_nbit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SimAdd_nbit'

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Sep  2 11:18:40 2023
+# Process ID: 11452
+# Current directory: D:/Esercizi vivado/A+1-A-1/A+1-A-1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Esercizi vivado/A+1-A-1/A+1-A-1.sim/sim_1/behav/xsim/xsim.dir/Simulazione_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Esercizi vivado/A+1-A-1/A+1-A-1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Esercizi vivado/A+1-A-1/A+1-A-1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Esercizi -notrace
+couldn't read file "D:/Esercizi": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Sat Sep  2 11:18:40 2023...
